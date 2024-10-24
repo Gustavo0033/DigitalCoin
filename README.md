@@ -20,7 +20,7 @@ DigitalCoin é um aplicativo simples que permite aos usuários visualizarem o va
 - Clone este repositório:
   ```bash
   Copiar código
-  git clone https://github.com/usuario/nome-do-repositorio.git
+  git clone https://github.com/Gustavo0033/digitalCoin.git
 
 - Abra o projeto no Xcode.
 - Configure a API Key no arquivo de configuração do projeto.
